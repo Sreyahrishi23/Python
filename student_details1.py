@@ -11,4 +11,4 @@ cgp=float(input("Enter cgp of the student:"))
 print("cgp of the student is:",cgp)
 percentage=("Enter percentage of the student:")
 percentage=cgp*10
-print("Percentage of the student is:",percentage+"%")
+print("Percentage of the student is:",percentage,"%")
