@@ -1,7 +1,9 @@
-#Author: Sreya
+'''
+Author: Sreya
 Date:01-10-2024
 Python program to get the student details
 Version:1.0
+'''
 
 name=input("Enter the student name:")
 roll_number=int(input("Enter your roll number:"))
