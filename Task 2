@@ -7,4 +7,4 @@ Version:3.11.4
 
 x="Hello,World!"
 y=x[6:11]
-print(y+"Everyone")
+print(y+"Everyone!")
