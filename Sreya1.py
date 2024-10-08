@@ -5,8 +5,8 @@ Version: 1.0
 Create, concatenate, and print a string and access a sub-string from a given string.
 '''
 
-first_name="Sreya"
-last_name="Hrishikesh"
+first_name=("Enter your first name:")
+last_name=("Enter your last name:")
 full_name=first_name+" "+last_name
 print(full_name)
 length=len(first_name)
