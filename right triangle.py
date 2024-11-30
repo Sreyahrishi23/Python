@@ -1,3 +1,8 @@
+'''
+Author:Sreya Hrishikesh
+Date:30-11-2024
+Python program to check if the given sides make a right triangle
+'''
 def right_triangle():
     sides=[side1,side2,side3]
     sides.sort()
